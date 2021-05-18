@@ -1,0 +1,19 @@
+nterms :int
+
+n1:int
+n2:int
+count :char
+fun fibonacci(nterms:int)
+   if nterms <= 0
+      k=5
+      return 1
+   else 
+      while count < nterms
+            nth = n1 + n2
+            
+            n1 = n2
+            n2 = nth
+            count = cont+ 1
+      loop
+   end
+end

@@ -1,0 +1,24 @@
+var : int
+num2 : char
+str : string
+fal : []char
+fun maximo_num ( var1:int, var2:int) : bool
+    resultado:int
+
+    if var1 < var2
+        
+        fal:char
+        num2:string
+
+        if var < 10
+            
+            str:char
+            
+            return
+        end
+
+        return 
+
+    end
+
+end

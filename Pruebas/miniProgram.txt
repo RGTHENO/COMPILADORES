@@ -1,0 +1,24 @@
+var : int
+num2 : char
+str : string
+GAAA : []char
+
+fun maximo_num ( var1:int, var2:int) : bool
+    resultado:int
+
+    if var1 < juan
+
+        real:char
+
+        if naa < 10
+            gaaa:int
+            papin:char
+            
+            return
+        end
+
+        return 
+
+    end
+
+end

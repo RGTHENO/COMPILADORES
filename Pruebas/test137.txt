@@ -1,0 +1,1 @@
+octogono(a<3, "Juan", "Pedro", 123)

@@ -1,0 +1,26 @@
+var : int
+num2 : int
+str : string
+GAAA : []char
+fun maximo_num ( var1:int, var2:int) : bool
+    resultado:int
+
+    if var < 100
+        
+        ab:int
+        ab = 10
+        var = 100
+        num2 = ab + var
+
+        if var < 10
+            
+            papin:char
+            papin = 'h'
+            return
+        end
+
+        return 
+
+    end
+
+end

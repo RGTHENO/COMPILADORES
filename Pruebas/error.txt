@@ -1,0 +1,17 @@
+//Falta loop para while, Error en nombre de funcion, Error en dos puntos
+numero:int
+cant:char
+per:string
+:
+fun 13maximo( var1:int, var4 : char)
+    x:int
+    x=20*3
+    while x:int<50
+        if var1<x
+            x=x+5
+            return
+        else
+            var1=x-7
+        end
+    end
+end

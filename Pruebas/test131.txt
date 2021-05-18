@@ -1,0 +1,4 @@
+if i<100 
+ara : []char
+return
+end

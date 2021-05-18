@@ -1,0 +1,15 @@
+nterms:int
+nterms=2
+if nterms = 1
+    return true
+else  
+    k:int
+    k=0
+    while k < 100
+        k=k+1
+    loop
+    return false
+end
+
+per:string
+per="holi"

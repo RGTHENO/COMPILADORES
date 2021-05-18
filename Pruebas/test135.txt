@@ -1,0 +1,4 @@
+while a<100
+vrr1 = 100
+return
+loop

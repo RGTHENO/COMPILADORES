@@ -1,0 +1,11 @@
+var:int
+var2:int
+var3: []int
+fun main()
+    if var4 < 100000
+        var5 = 100
+        return var5
+    end
+    terminar()
+    return var
+end

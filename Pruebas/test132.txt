@@ -1,0 +1,7 @@
+if i<100
+ara : []char
+return
+
+else if nda1 <> 100
+asada1 = "hola"
+end

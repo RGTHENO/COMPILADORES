@@ -1,0 +1,25 @@
+nterms:int
+n1:int
+n2:int
+count :int
+fun fibonacci(terms:int)
+   if (nterms <= 0)
+      return -1
+   else if (nterms <> 1)
+         n2=5
+         return 1
+      else  
+      
+         while (count < nterms)
+            nth = n1 + n2
+            
+            n1 = n2
+            n2 = nth
+            count = cont+ 1
+         loop
+         return nth
+
+      end
+      
+   end
+end

@@ -1,0 +1,6 @@
+fun foo(var1:int,var2:char) : bool
+    var2=5667
+    var1=4
+    var1="hola"
+    var2="HolaMundo"
+end

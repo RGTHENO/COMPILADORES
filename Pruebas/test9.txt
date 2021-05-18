@@ -1,0 +1,4 @@
+if k <> false
+    var1=5
+    return var1
+end

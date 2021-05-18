@@ -1,0 +1,11 @@
+fun maximo() : string
+    var:int
+    var2:int
+    var=45*50
+    var2=50*90
+    if var>var2
+       return 1
+    else  
+        return 2
+    end
+end

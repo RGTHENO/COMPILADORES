@@ -1,0 +1,6 @@
+fun error(int:var1,char var2) : bool
+    int:resultado
+    resultado=var1+var2
+    resultado=resultado+"124"
+    resultado=26+476
+end
