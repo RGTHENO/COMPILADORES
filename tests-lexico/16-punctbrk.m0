@@ -1,0 +1,9 @@
+i++ // eso son tres tokens
+--i // eso tambien
+*/  // eso son dos tokens
+
+/* ¿por que eso? para tratar cosas asi correctamente: */
+
+if x>=-1
+
+
